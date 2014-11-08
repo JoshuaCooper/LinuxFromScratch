@@ -1,0 +1,12 @@
+http://www.linuxfromscratch.org/patches/lfs/7.6/bash-4.3-upstream_fixes-3.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/bc-1.06.95-memory_leak-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/binutils-2.24-load_gcc_lto_plugin_by_default-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/binutils-2.24-lto_testsuite-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/bzip2-1.0.6-install_docs-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/coreutils-8.23-i18n-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/gcc-4.9.1-upstream_fixes-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/glibc-2.20-fhs-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/kbd-2.0.2-backspace-1.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/mpfr-3.1.2-upstream_fixes-2.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/readline-6.3-upstream_fixes-2.patch
+http://www.linuxfromscratch.org/patches/lfs/7.6/sysvinit-2.88dsf-consolidated-1.patch
